@@ -21,7 +21,7 @@ This guide explains how to create a token on the Polkadot network. Polkadot's ar
 ---
 
 ## Table of Contents
-1. [Introduction](Introduction.md)
+1. [Introduction](/Create-Token/Introduction.md)
 2. [Key Fields for Token Creation](KeyFields.md)
 3. [Steps to Create a Token](Steps.md)
     - [Option 1: Using Moonbeam (EVM-Compatible Parachain)](MoonbeamOption.md)
@@ -34,3 +34,4 @@ This guide explains how to create a token on the Polkadot network. Polkadot's ar
 
 #### [Block scanner](https://xode.net/blockscanner)
 Xode Blockchain integrates indexing and block scanning utilities through Subsquid, providing efficient data indexing and querying capabilities. This allows developers and users to easily access and analyze blockchain data, improving the overall user experience and enabling more advanced applications and analytics on the network.
+

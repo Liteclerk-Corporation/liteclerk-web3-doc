@@ -17,8 +17,4 @@ Once you’ve created the token and set up liquidity, it’s time to launch your
 If you have a total of 1 billion tokens and you want to offer 90% of them for sale, mint the following:
 ```bash
 spl-token mint <TOKEN_ADDRESS> 900000000 <SALE_ACCOUNT_ADDRESS>
-
-### 3. Market your Token
-Effective marketing is crucial for the success of your token. Here are some strategies:
--Build Hype Before Launch: Engage with crypto communities on Twitter, Discord, Telegram, and Reddit.
--Create a Strong Narrative: Craft a compelling story or meme around your token to capture interest.
+## 3. Market your Token
