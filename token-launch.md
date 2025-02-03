@@ -17,4 +17,6 @@ Once you’ve created the token and set up liquidity, it’s time to launch your
 If you have a total of 1 billion tokens and you want to offer 90% of them for sale, mint the following:
 ```bash
 spl-token mint <TOKEN_ADDRESS> 900000000 <SALE_ACCOUNT_ADDRESS>
-## 3. Market your Token
+
+### 3. Market your token
+
