@@ -6,3 +6,4 @@ git pull origin main --no-rebase
 # Set global git config to avoid rebasing in the future
 git config pull.rebase false
 
+# ./rebase.sh
