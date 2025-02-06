@@ -1,4 +1,7 @@
-# Documentation on Xterium-Pump
+# Documentation of Xterium-Pump
+
+# Introduction:
+ <p>Xterium-Pump is a next-gen token launchpad that simplifies creating digital assets. Users can customize their token’s name, ticker, description, and media while integrating social links for community growth. Once launched, tokens join the Xterium-Pump ecosystem, with rewards earned upon completing the bonding curve.<p>
 
 ## Xterium-Pump Coin Creation
 1. Coin Name: 
@@ -34,5 +37,3 @@
 6. Create Coin Button:
 - The final step to deploy your coin within the Xterium-Pump system.
 - "Coin details are immutable after creation," so verify all inputs before submitting.
-
-
