@@ -42,7 +42,7 @@ Listing tokens in a blockchain ecosystem offers flexibility with various methods
 # Fields to Display (Based on Pump.fun)
 1. Fields to Display:
 
-    * Token Name: The name of the token (e.g., "MemeTokenX").
+    * Token Name: The name of the token      (e.g., "MemeTokenX").
        -Justification: This provides an easy identifier for users to recognize tokens
 
     * Ticker Symbol: A short abbreviation of the token (e.g., "MTX").
