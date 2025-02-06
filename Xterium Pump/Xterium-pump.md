@@ -37,5 +37,3 @@
 6. Create Coin Button:
 - The final step to deploy your coin within the Xterium-Pump system.
 - "Coin details are immutable after creation," so verify all inputs before submitting.
-
-
